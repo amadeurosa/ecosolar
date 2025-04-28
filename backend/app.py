@@ -8,7 +8,7 @@ CORS(aplicativo)
 conexao = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Hauptbahnhof581988#",
+    password="-------",
     database="projeto_ecosolar"
 )
 
